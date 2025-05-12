@@ -31,7 +31,7 @@ Chile:
 - Universidad Técnica Federico Santa María
 
 México: 
-- Universidad Autónoma de México
+- Universidad Nacional Autónoma de México
 - Universidad de Sonora
 
 
