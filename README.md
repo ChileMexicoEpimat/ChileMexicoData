@@ -36,7 +36,7 @@ México:
 
 
 ## Description  
-Base notebook (Python) can be found in `code/` directory and in the following (Google Colab)[https://colab.research.google.com/drive/1pHkQInKz1a0KBD22cLNV2xpfLxYEIS1-?usp=sharing] link (viewer only).
+Base notebook (Python) can be found in `code/` directory and in the following [Google Colab](https://colab.research.google.com/drive/1pHkQInKz1a0KBD22cLNV2xpfLxYEIS1-?usp=sharing) link (viewer only).
 
 
 ## Research lines
