@@ -1,0 +1,13 @@
+{
+    "n_determinants": 19,
+    "series_len": 7,
+    "wide": 200,
+    "n_layers": 5,
+    "dim_output": 6,
+    "activation": "ReLU",
+    "total_params": 1580612,
+    "date": "20250903234635",
+    "epochs": 5000,
+    "batch_size": 32,
+    "learning_rate": 0.001
+}
